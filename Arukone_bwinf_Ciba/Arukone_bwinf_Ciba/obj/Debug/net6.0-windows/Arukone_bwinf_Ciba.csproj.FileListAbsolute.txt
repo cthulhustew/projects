@@ -1,0 +1,16 @@
+C:\Users\m.ciba\Source\Repos\Arukone_bwinf_Ciba\Arukone_bwinf_Ciba\bin\Debug\net6.0-windows\Arukone_bwinf_Ciba.exe
+C:\Users\m.ciba\Source\Repos\Arukone_bwinf_Ciba\Arukone_bwinf_Ciba\bin\Debug\net6.0-windows\Arukone_bwinf_Ciba.deps.json
+C:\Users\m.ciba\Source\Repos\Arukone_bwinf_Ciba\Arukone_bwinf_Ciba\bin\Debug\net6.0-windows\Arukone_bwinf_Ciba.runtimeconfig.json
+C:\Users\m.ciba\Source\Repos\Arukone_bwinf_Ciba\Arukone_bwinf_Ciba\bin\Debug\net6.0-windows\Arukone_bwinf_Ciba.dll
+C:\Users\m.ciba\Source\Repos\Arukone_bwinf_Ciba\Arukone_bwinf_Ciba\bin\Debug\net6.0-windows\Arukone_bwinf_Ciba.pdb
+C:\Users\m.ciba\Source\Repos\Arukone_bwinf_Ciba\Arukone_bwinf_Ciba\obj\Debug\net6.0-windows\Arukone_bwinf_Ciba.formArukone.resources
+C:\Users\m.ciba\Source\Repos\Arukone_bwinf_Ciba\Arukone_bwinf_Ciba\obj\Debug\net6.0-windows\Arukone_bwinf_Ciba.csproj.GenerateResource.cache
+C:\Users\m.ciba\Source\Repos\Arukone_bwinf_Ciba\Arukone_bwinf_Ciba\obj\Debug\net6.0-windows\Arukone_bwinf_Ciba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.ciba\Source\Repos\Arukone_bwinf_Ciba\Arukone_bwinf_Ciba\obj\Debug\net6.0-windows\Arukone_bwinf_Ciba.AssemblyInfoInputs.cache
+C:\Users\m.ciba\Source\Repos\Arukone_bwinf_Ciba\Arukone_bwinf_Ciba\obj\Debug\net6.0-windows\Arukone_bwinf_Ciba.AssemblyInfo.cs
+C:\Users\m.ciba\Source\Repos\Arukone_bwinf_Ciba\Arukone_bwinf_Ciba\obj\Debug\net6.0-windows\Arukone_bwinf_Ciba.csproj.CoreCompileInputs.cache
+C:\Users\m.ciba\Source\Repos\Arukone_bwinf_Ciba\Arukone_bwinf_Ciba\obj\Debug\net6.0-windows\Arukone_bwinf_Ciba.dll
+C:\Users\m.ciba\Source\Repos\Arukone_bwinf_Ciba\Arukone_bwinf_Ciba\obj\Debug\net6.0-windows\refint\Arukone_bwinf_Ciba.dll
+C:\Users\m.ciba\Source\Repos\Arukone_bwinf_Ciba\Arukone_bwinf_Ciba\obj\Debug\net6.0-windows\Arukone_bwinf_Ciba.pdb
+C:\Users\m.ciba\Source\Repos\Arukone_bwinf_Ciba\Arukone_bwinf_Ciba\obj\Debug\net6.0-windows\Arukone_bwinf_Ciba.genruntimeconfig.cache
+C:\Users\m.ciba\Source\Repos\Arukone_bwinf_Ciba\Arukone_bwinf_Ciba\obj\Debug\net6.0-windows\ref\Arukone_bwinf_Ciba.dll
