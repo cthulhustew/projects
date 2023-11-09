@@ -36,12 +36,13 @@
             btnHelp = new Button();
             lblArukoneHeader = new Label();
             saveFileDialog = new SaveFileDialog();
+            btnTestArukone = new Button();
             SuspendLayout();
             // 
             // btnCreateArukone
             // 
             btnCreateArukone.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point);
-            btnCreateArukone.Location = new Point(40, 186);
+            btnCreateArukone.Location = new Point(40, 144);
             btnCreateArukone.Name = "btnCreateArukone";
             btnCreateArukone.Size = new Size(300, 100);
             btnCreateArukone.TabIndex = 0;
@@ -51,17 +52,31 @@
             // 
             // textBoxEingabe
             // 
-            textBoxEingabe.Location = new Point(40, 127);
+            textBoxEingabe.Location = new Point(40, 78);
             textBoxEingabe.Name = "textBoxEingabe";
             textBoxEingabe.Size = new Size(300, 23);
             textBoxEingabe.TabIndex = 5;
+            // 
+            // lblEingabe
+            // 
+            lblEingabe.Location = new Point(0, 0);
+            lblEingabe.Name = "lblEingabe";
+            lblEingabe.Size = new Size(100, 23);
+            lblEingabe.TabIndex = 9;
+            // 
+            // label2
+            // 
+            label2.Location = new Point(0, 0);
+            label2.Name = "label2";
+            label2.Size = new Size(100, 23);
+            label2.TabIndex = 8;
             // 
             // label1
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             label1.ForeColor = Color.Salmon;
-            label1.Location = new Point(83, 153);
+            label1.Location = new Point(73, 104);
             label1.Name = "label1";
             label1.Size = new Size(215, 15);
             label1.TabIndex = 4;
@@ -71,7 +86,7 @@
             // btnHelp
             // 
             btnHelp.BackColor = SystemColors.GradientActiveCaption;
-            btnHelp.Location = new Point(126, 347);
+            btnHelp.Location = new Point(126, 376);
             btnHelp.Name = "btnHelp";
             btnHelp.Size = new Size(128, 58);
             btnHelp.TabIndex = 6;
@@ -93,11 +108,23 @@
             // 
             saveFileDialog.FileName = "Arukone";
             // 
+            // btnTestArukone
+            // 
+            btnTestArukone.Font = new Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point);
+            btnTestArukone.Location = new Point(40, 250);
+            btnTestArukone.Name = "btnTestArukone";
+            btnTestArukone.Size = new Size(300, 100);
+            btnTestArukone.TabIndex = 10;
+            btnTestArukone.Text = "Arukone Testen";
+            btnTestArukone.TextImageRelation = TextImageRelation.TextBeforeImage;
+            btnTestArukone.UseVisualStyleBackColor = true;
+            // 
             // formArukone
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(364, 417);
+            ClientSize = new Size(370, 451);
+            Controls.Add(btnTestArukone);
             Controls.Add(lblArukoneHeader);
             Controls.Add(btnHelp);
             Controls.Add(label1);
@@ -126,6 +153,6 @@
         private Button btnHelp;
         private Label lblArukoneHeader;
         private SaveFileDialog saveFileDialog;
-
+        private Button btnTestArukone;
     }
 }
