@@ -232,7 +232,7 @@ Sub KalenderExport()
 
     ' Basisname für die PDF-Datei festlegen
     Dim baseFileName As String
-    baseFileName = desktopPath & "\Print_Uebersicht_" & userInput
+    baseFileName = desktopPath & "\Print_Uebersicht_" & userInput & "_" & myNameSpace.CurrentUser
 
     ' Dateiname für die PDF-Datei festlegen
     Dim pdfFileName As String
@@ -257,7 +257,7 @@ Sub KalenderExport()
 
     ' Erstellung einer Email zum Versand an den Abteilungsleiter
     With OutMail
-        .To = "johndoe@aol.com"
+        .To = "john.doe@aol.com"
         .CC = ""
         .BCC = ""
         .Subject = "Monatsübersicht " & myNameSpace.CurrentUser & " " & userInput
