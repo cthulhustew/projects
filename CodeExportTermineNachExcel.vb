@@ -257,7 +257,7 @@ Sub KalenderExport()
 
     ' Erstellung einer Email zum Versand an den Abteilungsleiter
     With OutMail
-        .To = "john.doe@aol.com"
+        .To = "JohnDoe@AOL.de"
         .CC = ""
         .BCC = ""
         .Subject = "Monatsübersicht " & myNameSpace.CurrentUser & " " & userInput
@@ -274,3 +274,4 @@ Sub KalenderExport()
     xlApp.UserControl = True
     xlApp.WindowState = -4137 'xlMaximized
 End Sub
+
